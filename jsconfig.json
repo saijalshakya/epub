@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "moduleResolution": "node",
+      "baseUrl": "./src"
+    },
+    "exclude": ["node_modules", "lib", ".tmp", "build"]
+  }
+  
