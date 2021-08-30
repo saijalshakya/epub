@@ -1,11 +1,10 @@
 import './App.css';
+import EpubR from 'components/EpubR'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       
-      </header>
+      <EpubR/>
     </div>
   );
 }
